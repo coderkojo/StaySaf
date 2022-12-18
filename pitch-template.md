@@ -76,7 +76,7 @@ Our product solves a relatable problem and applies to basically **anyone** going
 1. View posts by our users of criminal activity
 2. Get push notifications of these crimes (based on your location)
 3. Check our map to view and avoid nearby crimes around you
-4. Mark locations as safe/unsafe
+4. Mark locations as crime hotspots
 
 <!-- Search for locations you want to visit and view their safety score -->
 
